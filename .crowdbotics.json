@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.1",
+    "cookiecutter_context": {
+      "project_name": "Raspy Voice",
+      "project_slug": "raspy_voice_275",
+      "project_dash_slug": "raspy-voice-275",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
